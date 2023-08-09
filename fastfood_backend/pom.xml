@@ -16,9 +16,9 @@
 	<properties>
 		<java.version>11</java.version>
   		<sonar.organization>geolocates</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
-	<dependencies>
+<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
